@@ -1,0 +1,10 @@
+Cadastro de Produtos Vendidios
+
+Data
+Produto
+Preço
+Desconto
+Nome Vendedor
+
+
+
